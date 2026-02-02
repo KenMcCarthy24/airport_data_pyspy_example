@@ -1,0 +1,9 @@
+name: airport_data_pyspy_example
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas=2.2.2
+  - py-spy=0.4.1
+  - numpy=2.0.1
